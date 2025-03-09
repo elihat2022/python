@@ -1,0 +1,28 @@
+# Entornos virtuales de Python
+venv/
+env/
+*.venv
+
+# Archivos de dependencias locales
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Archivos de configuración sensibles
+.env
+*.secret
+*.key
+
+# Dependencias de Node.js (Angular)
+node_modules/
+dist/
+*.log
+
+# Archivos de compilación y temporales
+*.swp
+*.swo
+*.bak
+
+# Directorios de desarrollo específicos
+.vscode/
+*.code-workspace
